@@ -77,18 +77,6 @@ Todos ellos conectados mediante relaciones explícitas entre conceptos.
 
 > 🔎 El enlace de Miro tiene permisos de **solo visualización**, de modo que el docente puede revisar el historial de colaboración de cada integrante.
 
-## 📁 Estructura del repositorio
-
-```text
-.
-├── README.md
-├── mapa/
-│   ├── mapa-conceptual.pdf      # Mapa exportado
-│   └── fuente/                  # Archivo fuente del mapa
-└── Referencias (.bib)/
-    └── *.bib                    # Todas las referencias en formato BibTeX
-```
-
 ## 📚 Referencias bibliográficas
 
 Las referencias utilizadas para definir y sustentar cada concepto del mapa están listadas **en esta sección del README**.
