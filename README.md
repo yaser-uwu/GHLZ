@@ -16,7 +16,6 @@
 4. [Contenido del mapa](#-contenido-del-mapa)
 5. [Enlaces](#-enlaces)
 6. [Referencias bibliográficas](#-referencias-bibliográficas)
-7. [Siguiente paso: EXP-1](#-siguiente-paso-exp-1)
 
 ---
 
