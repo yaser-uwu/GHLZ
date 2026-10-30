@@ -15,9 +15,8 @@
 3. [Descripción](#-descripción)
 4. [Contenido del mapa](#-contenido-del-mapa)
 5. [Enlaces](#-enlaces)
-6. [Estructura del repositorio](#-estructura-del-repositorio)
-7. [Referencias bibliográficas](#-referencias-bibliográficas)
-8. [Siguiente paso: EXP-1](#-siguiente-paso-exp-1)
+6. [Referencias bibliográficas](#-referencias-bibliográficas)
+7. [Siguiente paso: EXP-1](#-siguiente-paso-exp-1)
 
 ---
 
@@ -71,7 +70,7 @@ Todos ellos conectados mediante relaciones explícitas entre conceptos.
 | Recurso | Enlace |
 |---|---|
 | 🎨 **Tablero de Miro** (permisos de visualización) | [Abrir mapa en Miro](https://miro.com/welcomeonboard/YllSNkM3YUVmK1p5bE5RVWlVUThYdW04ck9HSVlxNEpFVzhqaG9XZXEvMHFQWHdsR0d4V0xZTDBoRmZlekNIWGEyV1FnRU96Q1h6KzlRMVE3TXZPbnFCalZINDBoU1VsOXdZVGYzVWk4dHhhRzRPYUZxV3FnUWFrL29mN1QrekFQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=692771992781) |
-| 📄 **Mapa exportado (PDF)** | [`mapa/mapa-conceptual.pdf`](./mapa/mapa-conceptual.pdf) |
+| 📄 **Mapa exportado (PDF)** | [`mapa/mapa-conceptual.pdf`](./mapa%20en%20PDF/GHLZ%20-%20Ecosistema%20de%20Sistemas%20Distribuidos.pdf) |
 | 🗃️ **Archivo fuente** | [`mapa/fuente/`](./mapa/fuente/) |
 | 📚 **Referencias (.bib)** | [`Referencias (.bib)/`](./Referencias%20%28.bib%29/) |
 
