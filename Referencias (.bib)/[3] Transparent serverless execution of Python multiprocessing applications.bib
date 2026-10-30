@@ -1,0 +1,13 @@
+@article{ARJONA2023436,
+title = {Transparent serverless execution of Python multiprocessing applications},
+journal = {Future Generation Computer Systems},
+volume = {140},
+pages = {436-449},
+year = {2023},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2022.10.038},
+url = {https://www.sciencedirect.com/science/article/pii/S0167739X22003612},
+author = {Aitor Arjona and Gerard Finol and Pedro García López},
+keywords = {Transparency, Access transparency, Serverless, FaaS, Multiprocessing, Parallel programming},
+abstract = {Access transparency means that both local and remote resources are accessed using identical operations. With transparency, unmodified single-machine applications could run over disaggregated compute, storage, and memory resources. Hiding the complexity of distributed systems through transparency would have great benefits, like scaling-out local-parallel scientific applications over flexible disaggregated resources in the Cloud. This paper presents a performance evaluation where we assess the feasibility of access transparency over state-of-the-art Cloud disaggregated resources for Python multiprocessing applications. We have interfaced the multiprocessing module with an implementation that transparently runs processes on serverless functions and uses an in-memory data store for shared state. To evaluate transparency, we run in the Cloud four unmodified applications: Uber Research’s Evolution Strategies, Baselines-AI’s Proximal Policy Optimization, Pandaral.lel’s dataframe, and Scikit Learn’s Hyperparameter tuning. We compare execution time and scalability of the same application running over disaggregated resources using our library, with the single-machine Python multiprocessing libraries in a large VM. For equal resources, applications efficiently using message-passing abstractions achieve comparable results despite the significant overheads of remote communication. Other shared-memory intensive applications do not perform due to high remote memory latency. The results show that Python’s multiprocessing library design is an enabler towards transparency: legacy applications using efficient disaggregated abstractions can transparently scale beyond VM limited resources for increased parallelism without changing the underlying code or architecture.}
+}
