@@ -27,7 +27,7 @@
 |---|---|
 | **Universidad** | Universidad Técnica Estatal de Quevedo (UTEQ) |
 | **Carrera** | Ingeniería en Software |
-| **Asignatura** | Redes de Datos |
+| **Asignatura** | Aplicaciones Distribuidas |
 | **Docente** | Guerrero Ulloa Gleiston Ciceron |
 | **Actividad** | Mapa conceptual del ecosistema de sistemas distribuidos |
 | **Carácter** | Formativa (sin calificación, requisito obligatorio para las actividades sumativas de la Semana 4) |
