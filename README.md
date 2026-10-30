@@ -173,6 +173,6 @@ Total de referencias: **36**.
 
 <div align="center">
 
-Universidad Técnica Estatal de Quevedo · Ingeniería en Software · Redes de Datos
+Universidad Técnica Estatal de Quevedo · Ingeniería en Software · Aplicaciones Distribuidas
 
 </div>
