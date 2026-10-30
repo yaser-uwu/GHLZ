@@ -169,10 +169,6 @@ Total de referencias: **36**.
 
 [36] L. Theodorakopoulos, A. Theodoropoulou, and C. Halkiopoulos, “Enhancing Decentralized Decision-Making with Big Data and Blockchain Technology: A Comprehensive Review,” Applied Sciences, vol. 14, no. 16, Art. no. 7007, Aug. 2024, doi: 10.3390/app14167007.
 
-## 🎯 Siguiente paso: EXP-1
-
-Este mapa es la base para seleccionar el **sistema distribuido real** que el grupo analizará en la **Exposición del 1er Corte (EXP-1, Semana 4)**.
-
 ---
 
 <div align="center">
