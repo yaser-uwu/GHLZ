@@ -1,0 +1,14 @@
+@article{Zhang2024,
+   abstract = {The increased data transmission and number of devices involved in communications among distributed systems make it challenging yet significantly necessary to have an efficient and reliable networking middleware. In robotics and autonomous systems, the wide application of ROS 2 brings the possibility of utilizing various networking middlewares together with DDS in ROS 2 for better communication among edge devices or between edge devices and the cloud. However, there is a lack of comprehensive communication performance comparison of integrating these networking middlewares with ROS 2. In this study, we provide a quantitative analysis for the communication performance of utilized networking middlewares including MQTT and Zenoh alongside DDS in ROS 2 among a multiple host system. For a complete and reliable comparison, we calculate the latency and throughput of these middlewares by sending distinct amounts and types of data through different network setups including Ethernet, Wi-Fi, and 4G. To further extend the evaluation to real-world application scenarios, we assess the drift error (the position changes) over time caused by these networking middlewares with the robot moving in an identical square-shaped path. Our results show that CycloneDDS performs better under Ethernet while Zenoh performs better under Wi-Fi and 4G. In the actual robot test, the robot moving trajectory drift error over time (96 s) via Zenoh is the smallest. It is worth noting we have a discussion of the CPU utilization of these networking middlewares and the perfosrmance impact caused by enabling the security feature in ROS 2 at the end of the paper.},
+   author = {Jiaqiang Zhang and Xianjia Yu and Sier Ha and Jorge Peña Queralta and Tomi Westerlund},
+   doi = {10.1007/s10846-024-02187-z},
+   issn = {15730409},
+   issue = {4},
+   journal = {Journal of Intelligent and Robotic Systems: Theory and Applications},
+   keywords = {DDS,Edge computing,MQTT,ROS 2,ROS middleware,Zenoh},
+   month = {12},
+   publisher = {Springer Nature},
+   title = {Comparison of Middlewares in Edge-to-Edge and Edge-to-Cloud Communication for Distributed ROS 2 Systems},
+   volume = {110},
+   year = {2024}
+}
